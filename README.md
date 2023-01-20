@@ -1,0 +1,2 @@
+# OpenSoruxBotPlugins
+Bukkit for OpenSoruxBotPlugins
