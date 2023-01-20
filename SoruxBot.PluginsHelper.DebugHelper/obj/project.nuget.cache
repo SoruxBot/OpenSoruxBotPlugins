@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5TSlnhhu7QzU/i1BuR1zJ0D2QmHLyB5/IhpQp3/1VdYta5lk+JjXDTcl48YjibTVEmv7CkNkJ4YbC8KWnhc1GQ==",
+  "success": true,
+  "projectFilePath": "F:\\Sorux\\SoruxBot\\Sorux.Framework.Bot\\PluginsExample\\SoruxBot.PluginsHelper.DebugHelper\\SoruxBot.PluginsHelper.DebugHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

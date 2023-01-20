@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>EpicMo.Plugins.MathSolver</AssemblyName>
+        <RootNamespace>EpicMo.Plugins.MathSolver</RootNamespace>
+        <Company>EpicMo.Plugins.MathSolver</Company>
+        <Product>EpicMo.Plugins.MathSolver</Product>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Sorux.Framework.Bot.Core.Interface">
+        <HintPath>..\..\..\Sorux.Framework.Bot\Sorux.Framework.Bot.Core.Interface\bin\Release\net6.0\Sorux.Framework.Bot.Core.Interface.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="RestSharp" Version="109.0.0-preview.1" />
+    </ItemGroup>
+
+</Project>

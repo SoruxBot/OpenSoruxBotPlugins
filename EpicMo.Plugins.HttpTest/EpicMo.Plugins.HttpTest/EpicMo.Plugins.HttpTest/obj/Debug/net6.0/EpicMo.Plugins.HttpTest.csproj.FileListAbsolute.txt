@@ -1,0 +1,15 @@
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\bin\Debug\net6.0\EpicMo.Plugins.HttpTest.deps.json
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\bin\Debug\net6.0\EpicMo.Plugins.HttpTest.dll
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\bin\Debug\net6.0\EpicMo.Plugins.HttpTest.pdb
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\bin\Debug\net6.0\Sorux.Framework.Bot.Core.Interface.dll
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\bin\Debug\net6.0\Sorux.Framework.Bot.Core.Interface.pdb
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\EpicMo.Plugins.HttpTest.csproj.AssemblyReference.cache
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\EpicMo.Plugins.HttpTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\EpicMo.Plugins.HttpTest.AssemblyInfoInputs.cache
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\EpicMo.Plugins.HttpTest.AssemblyInfo.cs
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\EpicMo.Plugins.HttpTest.csproj.CoreCompileInputs.cache
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\EpicMo.Plugins.HttpTest.csproj.CopyComplete
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\EpicMo.Plugins.HttpTest.dll
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\refint\EpicMo.Plugins.HttpTest.dll
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\EpicMo.Plugins.HttpTest.pdb
+F:\Sorux\SoruxBot\Plugins\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\EpicMo.Plugins.HttpTest\obj\Debug\net6.0\ref\EpicMo.Plugins.HttpTest.dll

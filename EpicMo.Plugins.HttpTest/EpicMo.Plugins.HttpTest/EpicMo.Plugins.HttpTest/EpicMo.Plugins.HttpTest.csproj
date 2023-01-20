@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Sorux.Framework.Bot.Core.Interface">
+        <HintPath>..\..\..\..\Sorux.Framework.Bot\Sorux.Framework.Bot.Core.Interface\bin\Debug\net6.0\Sorux.Framework.Bot.Core.Interface.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="RestSharp" Version="109.0.0-preview.1" />
+    </ItemGroup>
+
+</Project>

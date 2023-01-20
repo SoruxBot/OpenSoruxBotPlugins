@@ -1,0 +1,15 @@
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\bin\Debug\net6.0\EpicMo.Plugins.MathSolver.deps.json
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\bin\Debug\net6.0\EpicMo.Plugins.MathSolver.dll
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\bin\Debug\net6.0\EpicMo.Plugins.MathSolver.pdb
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\bin\Debug\net6.0\Sorux.Framework.Bot.Core.Interface.dll
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\bin\Debug\net6.0\Sorux.Framework.Bot.Core.Interface.pdb
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\EpicMo.Plugins.MathSolver.csproj.AssemblyReference.cache
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\EpicMo.Plugins.MathSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\EpicMo.Plugins.MathSolver.AssemblyInfoInputs.cache
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\EpicMo.Plugins.MathSolver.AssemblyInfo.cs
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\EpicMo.Plugins.MathSolver.csproj.CoreCompileInputs.cache
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\EpicMo.Plugins.MathSolver.csproj.CopyComplete
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\EpicMo.Plugins.MathSolver.dll
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\refint\EpicMo.Plugins.MathSolver.dll
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\EpicMo.Plugins.MathSolver.pdb
+F:\Sorux\SoruxBot\Plugins\MathSolver\EpicMo.Plugins.MathSolver\obj\Debug\net6.0\ref\EpicMo.Plugins.MathSolver.dll

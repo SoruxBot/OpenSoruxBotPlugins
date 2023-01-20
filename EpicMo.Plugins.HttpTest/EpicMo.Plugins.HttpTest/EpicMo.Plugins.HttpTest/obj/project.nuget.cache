@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAHT5dKt4MBUOgCeXOUuhafJ67zL5L2rtY8084BQ+rD7Nt4lAHieVZbgrOciw1kntJzdf2TtJYax0LAJLglumg==",
+  "success": true,
+  "projectFilePath": "F:\\Sorux\\SoruxBot\\Plugins\\EpicMo.Plugins.HttpTest\\EpicMo.Plugins.HttpTest\\EpicMo.Plugins.HttpTest\\EpicMo.Plugins.HttpTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\19827\\.nuget\\packages\\restsharp\\109.0.0-preview.1\\restsharp.109.0.0-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

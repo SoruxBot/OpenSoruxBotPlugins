@@ -1,0 +1,15 @@
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\bin\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.deps.json
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\bin\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.dll
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\bin\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.pdb
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\bin\Debug\net6.0\Sorux.Framework.Bot.Core.Interface.dll
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\bin\Debug\net6.0\Sorux.Framework.Bot.Core.Interface.pdb
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.csproj.AssemblyReference.cache
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.AssemblyInfoInputs.cache
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.AssemblyInfo.cs
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.csproj.CoreCompileInputs.cache
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.csproj.CopyComplete
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.dll
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\refint\SoruxBot.PluginsHelper.DebugHelper.dll
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\SoruxBot.PluginsHelper.DebugHelper.pdb
+F:\Sorux\SoruxBot\Sorux.Framework.Bot\PluginsExample\SoruxBot.PluginsHelper.DebugHelper\obj\Debug\net6.0\ref\SoruxBot.PluginsHelper.DebugHelper.dll
