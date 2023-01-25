@@ -1,0 +1,10 @@
+**/.vs/
+**/.vscode/
+**/.fleet/
+**/.idea/
+**/obj/
+**/bin/
+**/**/obj/
+**/**/bin/
+*.user
+.DS_Store
