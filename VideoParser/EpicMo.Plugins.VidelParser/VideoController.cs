@@ -1,9 +1,9 @@
-﻿using Sorux.Framework.Bot.Core.Interface.PluginsSDK.Attribute;
-using Sorux.Framework.Bot.Core.Interface.PluginsSDK.Models;
-using Sorux.Framework.Bot.Core.Interface.PluginsSDK.PluginsModels;
-using Sorux.Framework.Bot.Core.Interface.PluginsSDK.Register;
-using Sorux.Framework.Bot.Core.Interface.PluginsSDK.SDK.Basic;
-using Sorux.Framework.Bot.Core.Kernel.Utils;
+﻿using Sorux.Bot.Core.Interface.PluginsSDK.Attribute;
+using Sorux.Bot.Core.Interface.PluginsSDK.Models;
+using Sorux.Bot.Core.Interface.PluginsSDK.PluginsModels;
+using Sorux.Bot.Core.Interface.PluginsSDK.Register;
+using Sorux.Bot.Core.Interface.PluginsSDK.SDK.Basic;
+using Sorux.Bot.Core.Kernel.Utils;
 
 namespace EpicMo.Plugins.VideoParser;
 

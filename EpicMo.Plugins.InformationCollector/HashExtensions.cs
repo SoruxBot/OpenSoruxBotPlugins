@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace Sorux.Framework.Bot.Core.Kernel.Utils;
+namespace Sorux.Bot.Core.Kernel.Utils;
 
 /// <summary>
 /// 哈希操作 扩展

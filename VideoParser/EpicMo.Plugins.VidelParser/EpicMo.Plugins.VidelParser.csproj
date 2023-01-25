@@ -11,8 +11,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Reference Include="Sorux.Framework.Bot.Core.Interface">
-        <HintPath>..\..\..\..\Sorux.Framework.Bot\Sorux.Framework.Bot.Core.Interface\bin\Debug\net6.0\Sorux.Framework.Bot.Core.Interface.dll</HintPath>
+      <Reference Include="Sorux.Bot.Core.Interface">
+        <HintPath>..\..\..\..\Sorux.Bot\Sorux.Bot.Core.Interface\bin\Debug\net6.0\Sorux.Bot.Core.Interface.dll</HintPath>
       </Reference>
     </ItemGroup>
 

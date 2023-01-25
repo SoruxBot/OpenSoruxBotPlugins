@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Sorux.Framework.Bot.Core.Interface\Sorux.Framework.Bot.Core.Interface.csproj" />
-    <ProjectReference Include="..\..\Sorux.Framework.Bot.Core.Kernel\Sorux.Framework.Bot.Core.Kernel.csproj" />
+    <ProjectReference Include="..\..\Sorux.Bot.Core.Interface\Sorux.Bot.Core.Interface.csproj" />
+    <ProjectReference Include="..\..\Sorux.Bot.Core.Kernel\Sorux.Bot.Core.Kernel.csproj" />
   </ItemGroup>
 
 </Project>

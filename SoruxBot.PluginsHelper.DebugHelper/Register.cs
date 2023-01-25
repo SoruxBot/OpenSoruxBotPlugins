@@ -1,4 +1,4 @@
-﻿using Sorux.Framework.Bot.Core.Interface.PluginsSDK.Register;
+﻿using Sorux.Bot.Core.Interface.PluginsSDK.Register;
 
 namespace SoruxBot.PluginsHelper.DebugHelper;
 
